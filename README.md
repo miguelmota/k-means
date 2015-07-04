@@ -20,7 +20,7 @@ bower install kmeans
 
 # Usage
 
-Take a look at the [full example][]
+Take a look at the [full example][].
 
 ```javascript
 var KMeans = require('kmeansjs');
