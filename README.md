@@ -11,7 +11,7 @@
 # Install
 
 ```bash
-npm install kmeansjs
+npm install k-meansjs
 ```
 
 ```bash
@@ -23,7 +23,7 @@ bower install kmeans
 Take a look at the [full example][].
 
 ```javascript
-var KMeans = require('kmeansjs');
+var KMeans = require('k-meansjs');
 
 var data = [
   [6,5],
