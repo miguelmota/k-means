@@ -1,0 +1,43 @@
+{
+  "name": "kmeansjs",
+  "version": "0.0.1",
+  "description": "K-Means clustering.",
+  "main": "kmeans.js",
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "kmeans.js"
+  ],
+  "scripts": {
+    "test": "./node_modules/tape/bin/tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/k-means"
+  },
+  "keywords": [
+    "k-means",
+    "clustering",
+    "algorithm"
+  ],
+  "author": {
+    "name": "Miguel Mota",
+    "email": "hello@miguelmota.com",
+    "url": "http://www.miguelmota.com/"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/miguelmota/k-means/blob/master/LICENSE.md"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelmota/k-means/issues"
+  },
+  "homepage": "https://github.com/miguelmota/k-means",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

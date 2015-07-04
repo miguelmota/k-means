@@ -1,0 +1,23 @@
+{
+  "name": "kmeans",
+  "main": "kmeans.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/k-means",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "K-Means clustering.",
+  "keywords": [
+    "k-means",
+    "clustering",
+    "algorithm"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
