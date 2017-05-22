@@ -6,7 +6,7 @@
 
 # Demo
 
-[http://lab.moogs.io/k-means](http://lab.moogs.io/k-means)
+[https://lab.miguelmota.com/k-means](https://lab.miguelmota.com/k-means)
 
 # Install
 
